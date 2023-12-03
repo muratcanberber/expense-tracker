@@ -1,16 +1,12 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+![image](https://github.com/muratcanberber/expense-tracker/assets/30313472/bb46df36-777c-487e-bd77-4853ccf5a867)
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Simple Vue App from Traversy Media's Youtube video.
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+To Test This Simple Follow :
 
 ```sh
 npm install
